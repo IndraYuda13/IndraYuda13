@@ -20,7 +20,6 @@
 
 ## About
 
-- GitHub: **IndraLawliet13**
 - Name: **Indra Yuda**
 - Main focus: **backend APIs, automation workflows, and developer tooling**
 - Comfortable with: **Python, JavaScript/TypeScript, API integration, web automation, and CLI utilities**
@@ -61,26 +60,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-## GitHub Overview
-
-The profile now uses GitHub-native markdown and stable shields instead of external stat-card widgets,
-so it renders more consistently on the GitHub profile page.
-
-## Selected Public Repositories
-
-- [`codex-slot-relay`](https://github.com/IndraYuda13/codex-slot-relay)
-- [`codex-utils`](https://github.com/IndraYuda13/codex-utils)
-- [`cryptoPredict`](https://github.com/IndraYuda13/cryptoPredict)
-- [`APITubes2`](https://github.com/IndraYuda13/APITubes2)
-- [`TVOnline`](https://github.com/IndraYuda13/TVOnline)
-- [`cryptocandyfarm-automation`](https://github.com/IndraYuda13/cryptocandyfarm-automation)
-- [`turnstile-solver-api`](https://github.com/IndraYuda13/turnstile-solver-api) - Public-safe Turnstile solver API showcase built from a production-oriented local deployment.
-
-- [`fruitfarm`](https://github.com/IndraYuda13/fruitfarm)
-- [`rollercoin`](https://github.com/IndraYuda13/rollercoin)
-- [`autofaucet`](https://github.com/IndraYuda13/autofaucet)
-- [`givvy`](https://github.com/IndraYuda13/givvy)
 
 <p align="center">
   Clean code, practical automation, and useful tools over unnecessary noise.
