@@ -43,6 +43,7 @@
 | [`APITubes2`](https://github.com/IndraYuda13/APITubes2) | Express-based backend API showcase prepared as a clean public project. |
 | [`TVOnline`](https://github.com/IndraYuda13/TVOnline) | Next.js IPTV web app with filtering and browser-based streaming. |
 | [`cryptocandyfarm-automation`](https://github.com/IndraYuda13/cryptocandyfarm-automation) | Public-safe Python automation showcase for the CryptoCandyFarm Telegram mini app. |
+| Automation & Bots | [`turnstile-solver-api`](https://github.com/IndraYuda13/turnstile-solver-api), [`fruitfarm`](https://github.com/IndraYuda13/fruitfarm), [`rollercoin`](https://github.com/IndraYuda13/rollercoin), [`autofaucet`](https://github.com/IndraYuda13/autofaucet), [`givvy`](https://github.com/IndraYuda13/givvy) |
 
 ## Tech Stack
 
