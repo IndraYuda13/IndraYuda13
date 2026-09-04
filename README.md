@@ -1,26 +1,44 @@
 <div align="center">
 
-# Indra Yuda
-### Backend Systems • Distributed Automation • Reverse Engineering
+<!-- Waving Gradient Hero Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=210&section=header&text=Indra%20Yuda&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+
+<!-- Dynamic Animated Typing SVG -->
+<a href="https://github.com/IndraYuda13">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=High-Performance+Distributed+Automation;Reverse+Engineering+%26+Protocol+Analysis;Anti-Bot+Bypassing+%26+Vision+Solvers;Full-Stack+Systems+%26+Next.js+Applications;Level+99+Bug+Hunter+%26+Systems+Tinkerer+%F0%9F%8E%AE" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  Building high-performance backend microservices, resilient distributed automation pipelines, and headless anti-bot solvers.
+  <img src="https://komarev.com/ghpvc/?username=IndraYuda13&label=PROFILE%20VIEWS&style=flat-square&color=0284c7" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+### 🕹️ Real-Time Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IndraYuda13/IndraYuda13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IndraYuda13/IndraYuda13/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/IndraYuda13/IndraYuda13/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Game" width="100%" />
+  </picture>
 </p>
 
 ---
 
-</div>
+### 🛠️ Tech Arsenal & Weaponry
 
-### 🛠 Core Engineering Focus
-
-- **Distributed Web Automation & Egress:** Resilient multi-node proxy rotation, HTTP stream harvesting, and headless browser orchestration (Playwright, Camoufox, curl-cffi).
-- **Anti-Bot & Reverse Engineering:** Specialized bypass pipelines for Cloudflare Turnstile, multi-icon sequence captchas, and custom challenge protocols.
-- **Backend Architecture & APIs:** Asynchronous, low-latency microservices with Quart, FastAPI, Express, and SQLite/PostgreSQL storage.
-- **Client-Facing Systems:** Responsive web dashboards and IPTV applications utilizing TypeScript, Next.js, and Tailwind CSS.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,nextjs,postgres,sqlite,redis,docker,linux,git,bash&perline=7" alt="Skill Icons" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Selected Architectures & Projects
+### 🚀 Flagship Deployments & Architectures
 
 #### ⚡ Automation & Security Infrastructure
 * **[`luckywatch-bot`](https://github.com/IndraYuda13/luckywatch-bot)** — High-throughput stream automator, headless Cloudflare Turnstile bypass, and reward pipeline.
@@ -37,17 +55,16 @@
 
 ---
 
-### 🧰 Technical Stack
+### 📊 Live GitHub Streak & Telemetry
 
-```
-Languages      Python (AsyncIO, Quart, FastAPI) • TypeScript • JavaScript • Bash • SQL
-Engineering    Reverse Engineering • Web Automation • Anti-Bot Bypassing • Vision LLM Integration
-Databases      SQLite • PostgreSQL • Redis
-Infrastructure Linux (Ubuntu/Debian) • Docker • Cloudflare Workers • Systemd • Git
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IndraYuda13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 <div align="center">
-  <sub>Engineered for reliability, performance, and clean execution.</sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+  <br/><br/>
+  <sub>🎮 Powered by autonomous workflows • Engineered for resilience, performance, and clean execution.</sub>
 </div>
