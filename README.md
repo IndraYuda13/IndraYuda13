@@ -37,13 +37,15 @@
 
 | Project | Summary |
 | --- | --- |
+| [`luckywatch-bot`](https://github.com/IndraYuda13/luckywatch-bot) | Enterprise Pure Python HTTP Stream Automator, Turnstile Bypass & Rewards Engine. |
+| [`surfshark-proxy-studio`](https://github.com/IndraYuda13/surfshark-proxy-studio) | Enterprise-grade Surfshark Proxy Studio with Location Engine & Dark Dashboard. |
 | [`codex-slot-relay`](https://github.com/IndraYuda13/codex-slot-relay) | Stateless OpenAI-compatible Codex relay with slot-aware routing and local slot management. |
 | [`codex-utils`](https://github.com/IndraYuda13/codex-utils) | Lightweight Python helpers for OpenAI-compatible Codex relay endpoints, chat flows, responses, and streaming. |
 | [`cryptoPredict`](https://github.com/IndraYuda13/cryptoPredict) | Python-based BTCUSDT trading research workflow with data collection, model training, signal checks, and alerts. |
 | [`APITubes2`](https://github.com/IndraYuda13/APITubes2) | Express-based backend API showcase prepared as a clean public project. |
 | [`TVOnline`](https://github.com/IndraYuda13/TVOnline) | Next.js IPTV web app with filtering and browser-based streaming. |
 | [`cryptocandyfarm-automation`](https://github.com/IndraYuda13/cryptocandyfarm-automation) | Public-safe Python automation showcase for the CryptoCandyFarm Telegram mini app. |
-| Automation & Bots | [`turnstile-solver-api`](https://github.com/IndraYuda13/turnstile-solver-api), [`fruitfarm`](https://github.com/IndraYuda13/fruitfarm), [`rollercoin`](https://github.com/IndraYuda13/rollercoin), [`autofaucet`](https://github.com/IndraYuda13/autofaucet), [`givvy`](https://github.com/IndraYuda13/givvy) |
+| Automation & Bots | [`turnstile-solver-api`](https://github.com/IndraYuda13/turnstile-solver-api), [`icon-captcha-solver`](https://github.com/IndraYuda13/icon-captcha-solver), [`fruitfarm`](https://github.com/IndraYuda13/fruitfarm), [`rollercoin`](https://github.com/IndraYuda13/rollercoin), [`autofaucet`](https://github.com/IndraYuda13/autofaucet), [`givvy`](https://github.com/IndraYuda13/givvy) |
 
 ## Tech Stack
 
