@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Waving Gradient Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=210&section=header&text=Indra%20Yuda&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+<!-- Waving Gradient Hero Header with dynamic glowing animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Indra%20Yuda&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" alt="Indra Yuda Header" />
 
-<!-- Dynamic Animated Typing SVG -->
+<!-- Dynamic Animated Terminal Typing SVG -->
 <a href="https://github.com/IndraYuda13">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=High-Performance+Distributed+Automation;Reverse+Engineering+%26+Protocol+Analysis;Anti-Bot+Bypassing+%26+Vision+Solvers;Full-Stack+Systems+%26+Next.js+Applications;Level+99+Bug+Hunter+%26+Systems+Tinkerer+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Distributed+Web+Automation+%26+Egress+Pipelines;Reverse+Engineering+%26+Protocol+Analysis;Headless+Cloudflare+Turnstile+%26+Vision+Solvers;Full-Stack+Next.js+Systems+%26+Asynchronous+APIs;Level+99+Systems+Tinkerer+%26+Bug+Hunter+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 🕹️ Real-Time Contribution Snake Game
+### 🕹️ Real-Time Contribution Grid (Snake Game)
 
 <p align="center">
   <picture>
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,nextjs,postgres,sqlite,redis,docker,linux,git,bash&perline=7" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,nextjs,postgres,sqlite,redis,docker,linux,git,bash" alt="Tech Arsenal" width="95%" />
   </a>
 </p>
 
@@ -55,10 +55,10 @@
 
 ---
 
-### 📊 Live GitHub Streak & Telemetry
+### 📊 Live GitHub Telemetry & Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IndraYuda13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=IndraYuda13&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="65%" />
 </p>
 
 ---
