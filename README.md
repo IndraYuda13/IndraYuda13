@@ -63,6 +63,18 @@
 
 ---
 
+### 📬 Get in Touch
+
+<p align="center">
+  <a href="https://t.me/LemonTeaNyegerin">
+    <img src="https://img.shields.io/badge/Telegram-%40LemonTeaNyegerin-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram: @LemonTeaNyegerin" />
+  </a>
+  <br/><br/>
+  <sub>Open DMs — automation, systems, and anything worth building.</sub>
+</p>
+
+---
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
   <br/><br/>
