@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://t.me/LemonTeaNyegerin">
-    <img src="https://img.shields.io/badge/Telegram-%40LemonTeaNyegerin-26A5E4?style=flat-square&labelColor=18181b&logo=telegram&logoColor=white&label=%20" alt="Telegram: @LemonTeaNyegerin" height="24" />
+    <img src="https://img.shields.io/badge/Telegram-%40LemonTeaNyegerin-26A5E4?style=flat-square&labelColor=18181b&logo=telegram&logoColor=white&label=%20&logoWidth=14" alt="Telegram: @LemonTeaNyegerin" height="22" />
   </a>
   <br/><br/>
   <sub>Open DMs — automation, systems, and anything worth building.</sub>
